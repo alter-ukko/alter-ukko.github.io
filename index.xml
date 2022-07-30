@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Kilmer</title>
+    <link>http://dkilmer.com/</link>
+    <description>Recent content on David Kilmer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://dkilmer.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://dkilmer.com/projects/</link>
+      <pubDate>Sat, 30 Jul 2022 17:41:29 -0400</pubDate>
+      
+      <guid>http://dkilmer.com/projects/</guid>
+      <description>As a hobby, I develop videogames, and I&amp;rsquo;ve released two so far:
+Tengam Reproduction Man I am inordinately fond of both the Kotlin programming language and command-line utilities. I&amp;rsquo;ve created a few Kotlin-based utilities that I use pretty much every day:
+kinstall - a utility to manage gradle-project-based command-line utilities. tnote - a command-line note taking app. glasnik - a command-line REST client (like Postman but with no GUI). I spend more time than is advisable playing a videogame called Noita.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://dkilmer.com/about/</link>
+      <pubDate>Sat, 30 Jul 2022 16:40:30 -0400</pubDate>
+      
+      <guid>http://dkilmer.com/about/</guid>
+      <description>I am a software engineer and architect with a focus in the last 7 years on data engineering.
+I&amp;rsquo;ve worked in a variety of industries, including transportation, energy, videoconferencing, occupational health and human resources. I&amp;rsquo;ve also done work in the criminal justice non-profit space. You can download my resumé here.
+I have been programming computers for a long time (my first computer was a TRS-80 Model I), but since my AP CompSci class in high school (Pascal on a Commodore SuperPET), I haven&amp;rsquo;t received any formal education in Computer Science.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://dkilmer.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dkilmer.com/contact/</guid>
+      <description>You can reach me:
+by e-mail at dkilmer@gmail.com on LinkedIn on Twitter </description>
+    </item>
+    
+  </channel>
+</rss>
